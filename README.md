@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Learning **Java,DSA,Backend Development**
-- 💻 Comfortable with **Git, GitHub, Linux, HTML, CSS, MySQL, MongoDB, **
+- 💻 Comfortable with **Git, GitHub, Linux, HTML, CSS, MySQL, MongoDB**
 - 🚀 Building real-world projects while learning
 - 🎯 Actively seeking **internships & entry-level roles**
 - 📫 How to reach me **ashwin.morre@gmail.com**
