@@ -8,11 +8,12 @@
 
 ### 👨‍💻 About Me
 - 🎓 MSc Computer Applications Student 
-- 🌱 Currently Learning **Full Stack Web Development Learner**
-- 🛠 Comfortable with **Git, GitHub, Linux, C, Java, HTML, CSS, JavaScript, MySQL, MongoDB**
+- 🌱 **Currently Learning Full Stack Web Development**
+- 🛠 Comfortable with **Git, GitHub, Linux, C, Java, HTML, CSS, JavaScript, MySQL and MongoDB**
 - 🚀 Building real-world projects while learning
-- 🎯 Open to internships and software development opportunities**
-- 📫 How to reach me **ashwin.morre@gmail.com**
+- 🎯 **Open to internships and software development opportunities**
+- ## 📫 Contact
+     📧 ashwin.morre@gmail.com
 
 
 ---
