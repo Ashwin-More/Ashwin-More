@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 MSc Computer Applications Student 
-- 🌱 **Currently Learning Full Stack Web Development**
-- 🛠 Comfortable with **Git, GitHub, Linux, C, Java, HTML, CSS, JavaScript, MySQL and MongoDB**
+- 🌱 **Currently learning Full Stack Web Development**
+- 🛠 Comfortable with **Git, GitHub, Linux, C, Java, HTML, CSS, JavaScript, MySQL, and MongoDB**
 - 🚀 Building real-world projects while learning
 - 🎯 **Open to internships and software development opportunities**
 - ## 📫 Contact
