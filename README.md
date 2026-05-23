@@ -7,10 +7,11 @@
 ---
 
 ### 👨‍💻 About Me
+- 🎓 MSc Computer Applications Student 
 - 🌱 Learning **Full Stack Web Development Learner**
-- 💻 Comfortable with **Git, GitHub, Linux, C, Java, HTML, CSS, JavaScript, SQL, NOSQL**
+- 💻 Comfortable with **Git, GitHub, Linux, C, Java, HTML, CSS, JavaScript,SQL, NOSQL**
 - 🚀 Building real-world projects while learning
-- 🎯 Actively seeking **internships & entry-level roles**
+- 🎯 Open to internships and software development opportunities**
 - 📫 How to reach me **ashwin.morre@gmail.com**
 
 
